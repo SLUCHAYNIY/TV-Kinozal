@@ -161,12 +161,22 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerF
 #EXTINF:-1 tvg-name="Player VETEN OĞLU"tvg-logo="https://img.catcast.tv/uploads/27022026/logos/27208-69a1b07fe19ad.png",Player VETEN OĞLU
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerVETENOGLU.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Az Dublyaj"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Az Dublyaj
+#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-1"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-1
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAzDublyaj.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Azerbaycan Dublaj 2"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Azerbaycan Dublaj 2
+#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-2"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-2
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema_Aze-Dublaj_2.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-3"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-3
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Aze_Dublaj-3.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-4"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-4
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema_Aze-Dublaj_4.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-5"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-5
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema_Aze-Dublaj_5.m3u8
+
 #EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png",PlayerFilm AZERBAYCAN
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerFilmAZE.m3u8
